@@ -1,0 +1,4 @@
+.product_list .active{
+    border: 4px solid green;
+ padding: 2px;   
+}

@@ -1,0 +1,4 @@
+.nav .active{
+    padding: 2px;
+    border-bottom: 2px solid black;
+}
